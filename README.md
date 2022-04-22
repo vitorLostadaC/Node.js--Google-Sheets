@@ -2,7 +2,8 @@
 
 ## About
 
-Server feito em node.js utilizando express, permitindo editar uma planilha do google sheets por meio da api `google sheets api` do google cloud.
+
+Server made in node.js using expressly, allowing to edit a google sheets spreadsheet through the `google sheets api` google cloud api.
 
 ## Youtube
 
